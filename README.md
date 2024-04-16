@@ -9,7 +9,7 @@
 
  <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://wpzllq.cn/"target="_blank"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://wpzllq.cn/" target="_blank"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/2122964618?spm_id_from=333.788.0.0"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.youtube.com/channel/UCcMUTzyZMOCNw1vlMEWLLZw"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://mp.sunguoqi.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
