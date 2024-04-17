@@ -2,7 +2,7 @@
  <!--  动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);一起学习与分享快乐!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);一起学习与分享快乐!🎉&center=true&size=27">
   </a>
 </h1>
 
@@ -51,8 +51,15 @@
 <p>&emsp;&emsp;🌱 生活中，我喜欢保持好奇心，热衷尝试新的技能和领域，不断的扩展自己的认知与技能</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
+ <img align="right" src="https://moe-counter.glitch.me/get/@:xiaopao6?theme=rule20">
 </td></tr>
+
+### 🍭 GitHub 开源项目
+
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=50-Case-Studies&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/50-Case-Studies)
+[![2](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-vue2-50project&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-vue2-50project)
+[![3](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=react-study&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/react-study)
+[![4](https://github-readme-stats.vercel.app/api/pin/?username=zhang-bcxb&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/zhang-bcxb/zhang-web-template-github)
 
 
 <tr><td>
@@ -76,6 +83,8 @@
 	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> -->
 	<!--  skill badge 技能徽章 -->
+
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
 
