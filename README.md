@@ -7,12 +7,12 @@
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/xiaopao6/xiaopao6/output/github-contribution-grid-snake.svg)
 
-个人简介
-🤗 姓名: 棚子
+个人简介:
+🤗 名称: 棚子
 👦 性别: 男
 🧭 年龄: 20
 🌏 现居: 广西
-📩 邮箱: 18306390693
+📩 邮箱: 2330359217@qq.com
 🥑 公众号: 【棚子科技】
 
  <!-- profile logo 个人资料徽标 -->
