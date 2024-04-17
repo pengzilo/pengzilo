@@ -43,7 +43,7 @@
 
 ### 🤺 About Me
 
-<img align="right" width="100" src="https://gya.wpzllq.cn/11%20(2).png" />
+<img align="right" width="120" src="https://gya.wpzllq.cn/11%20(2).png" />
 
 <p>&emsp;&emsp;嗨，你好，我是棚子。</p>
 <p>&emsp;&emsp;🔭 即将毕业的我，曾学习过HTML、CSS、Vue、Java、JavaScript、软件测试、UI设计、PS等多项技能，虽然有些已经遗忘，但重新复习会事半功倍哈哈哈哈。</p>
