@@ -1,9 +1,17 @@
+<div align="center">
  <!--  动态打字效果 -->
 <h1 align="center">
   <a href="https://sunguoqi.com/">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);一起学习与分享快乐!&center=true&size=27">
   </a>
 </h1>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" /> 
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/xiaopao6/xiaopao6/output/github-contribution-grid-snake.svg)
 
@@ -44,4 +52,7 @@
 </span>
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+</div>
+
+
 </div>
