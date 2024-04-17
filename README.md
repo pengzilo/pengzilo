@@ -34,6 +34,28 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=xiaopao6&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+
+#  🙋 Hello
+
+<table>
+  
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://gya.wpzllq.cn/11%20(2).png" />
+
+<p>&emsp;&emsp;嗨，你好，我是棚子。</p>
+<p>&emsp;&emsp;🔭 即将毕业的我，曾学习过HTML、CSS、Vue、Java、JavaScript、软件测试、UI设计、PS等多项技能，虽然有些已经遗忘，但重新复习会事半功倍哈哈哈哈。</p>
+<p>&emsp;&emsp;👯 我热爱和他人一起探索有趣的事物，喜欢挑战自己，不断学习和进步。</p>
+<p>&emsp;&emsp;🌱 生活中，我喜欢保持好奇心，热衷尝试新的技能和领域，不断的扩展自己的认知与技能</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+
+<tr><td>
   
 <table border=0>
   <tr>
