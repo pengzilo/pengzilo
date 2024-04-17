@@ -59,7 +59,7 @@
 [![1](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=nineai3.4-3.5-&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/nineai3.4-3.5-)
 [![2](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=ChatGPT-Next-Web&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/ChatGPT-Next-Web)
 [![3](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=zy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/zy)
-[![4](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=zhang-web-template-github&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/zhang-web-template-github)
+[![4](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=yy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/yy)
 <br>
 
 <tr><td>
