@@ -56,7 +56,7 @@
 
 ### 🍭 GitHub 开源项目
 
-[![1](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=Wechat-push-girlfriend-&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/Wechat-push-girlfriend)
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=Wechat-push-girlfriend&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/Wechat-push-girlfriend)
 [![2](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=ChatGPT-Next-Web&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/ChatGPT-Next-Web)
 [![3](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=zy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/zy)
 [![4](https://github-readme-stats.vercel.app/api/pin/?username=xiaopao6&repo=yy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/xiaopao6/yy)
