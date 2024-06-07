@@ -56,7 +56,7 @@
 
 ### 🍭 GitHub 开源项目
 
-
+[![1](https://github-readme-stats.vercel.app/api/pin/?username=pengzilo&repo=qqAI&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/pengzilo/qqAI)
 [![2](https://github-readme-stats.vercel.app/api/pin/?username=pengzilo&repo=ChatGPT-Next-Web&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/pengzilo/ChatGPT-Next-Web)
 [![3](https://github-readme-stats.vercel.app/api/pin/?username=pengzilo&repo=zy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/pengzilo/zy)
 [![4](https://github-readme-stats.vercel.app/api/pin/?username=pengzilo&repo=yy&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/pengzilo/yy)
